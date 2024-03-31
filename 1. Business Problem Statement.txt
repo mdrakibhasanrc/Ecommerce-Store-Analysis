@@ -1,0 +1,3 @@
+Business Problem Statement:
+
+As a stakeholder, the problem we are facing is a lack of visibility into the effectiveness of our discount strategies and their impact on customer behavior and sales performance. We need to leverage data analytics and data visualization techniques to analyze the relationship between discounts, customer purchasing behavior, and overall sales performance. This will enable us to optimize our discount strategies, increase sales revenue, and enhance customer satisfaction.
