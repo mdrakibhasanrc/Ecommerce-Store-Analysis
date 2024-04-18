@@ -20,6 +20,15 @@ Once the data is prepared, I will conduct in-depth analysis using SQL queries. F
 
 To visualize the findings, I will leverage Looker Studio, a powerful platform for data visualization and exploration. Integrating with the prepared dataset, I will create interactive dashboards and reports to present the analysis results in a visually compelling manner. These visualizations will provide stakeholders with intuitive tools to explore the data and gain deeper insights into key business metrics.
 
+#### Ecommerce Dashoabord:
+
+![Screenshot_1](https://github.com/mdrakibhasanrc/Ecommerce-Store-Analysis/assets/103329593/4522ff33-beee-4920-a520-043f0957b115)
+
+![Screenshot_2](https://github.com/mdrakibhasanrc/Ecommerce-Store-Analysis/assets/103329593/73c176ab-c479-4240-afdf-d5150084d3ca)
+
+![Screenshot_3](https://github.com/mdrakibhasanrc/Ecommerce-Store-Analysis/assets/103329593/183ffb62-d07a-43f3-ae89-a89fec3f2a73)
+
+
 #### Conclusion:
 
 In conclusion, this project demonstrates a comprehensive approach to data analysis, encompassing data modeling with Lucidchart, ETL processes with Python, analysis using SQL, and visualization with Looker Studio. By combining these tools and techniques, I have conducted thorough analyses of revenue trends, customer behavior, and product performance, empowering stakeholders with actionable insights for strategic decision-making. This project underscores the importance of leveraging diverse resources to derive meaningful insights from complex datasets, driving business growth and innovation.
